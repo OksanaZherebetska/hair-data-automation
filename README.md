@@ -42,6 +42,13 @@ This repository contains a Python script used for automating daily data updates 
 python main.py
 
 ---
+🧩 Dependencies
+
+- pandas  
+- psutil  
+- google-auth  
+- google-cloud-bigquery  
+- pywin32
 
 🧼 Disclaimer
 This code is a cleaned-up version of a production-grade workflow and is intended to showcase automation logic, not real data or business logic. All sensitive information has been removed or masked.
